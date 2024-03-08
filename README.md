@@ -5,9 +5,8 @@ VITE_API_URL=http://localhost:3000
 ```
 
 # Full Project
-Project using rails as banckend api, vue as frontend, postgres as database and docker to cotainerize
-
-to run this full project, first you need to have .env and docker-compose.yml on same folder:
+This project use rails as banckend api, vue as frontend, postgres as database and docker to cotainerize.
+To run this full project, first you need to have .env and docker-compose.yml on same folder:
 
 Sample of .env file:
 ```env
