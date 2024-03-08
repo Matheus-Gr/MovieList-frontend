@@ -8,7 +8,7 @@ VITE_API_URL=http://localhost:3000
 This project use rails as banckend api, vue as frontend, postgres as database and docker to cotainerize.
 To run this full project, first you only need to have a `.env` file and `docker-compose.yml` on same folder:
 
-Sample of .env file:
+Sample of `.env` file:
 ```env
 POSTGRES_HOST=database
 RAILS_ENV=production
@@ -19,7 +19,7 @@ SECRET_KEY_BASE={your_secret_key_base}
 VITE_API_URL=$POSTGRES_HOST
 ```
 
-Sample of docker-compose.yml
+Sample of `docker-compose.yml`
 ```yml
 version: '3'
 services:
