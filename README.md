@@ -1,5 +1,5 @@
 # Movie list Frontend
-To run on local host ad an .env with:
+To run on local host add a .env with:
 ```env
 VITE_API_URL=http://localhost:3000
 ```
